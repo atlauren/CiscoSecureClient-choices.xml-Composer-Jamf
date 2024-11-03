@@ -11,8 +11,7 @@ This repo is for installing Cisco Secure Client, with a choices.xml, assembled w
 * [Rich Trouton: Working with Apple pkgs](https://gist.github.com/rtrouton/002034a14e9d8f4f5b32cd4b0998bc01).
 * [JAMF: Adding a Postflight Script to a Package Source](https://learn.jamf.com/en-US/bundle/composer-user-guide-current/page/Adding_a_Postflight_Script_to_a_Package_Source.html)
 * [JAMF Idea: Specify ChoiceChangesXML for pkg install within policy](https://ideas.jamf.com/ideas/JN-I-17689)
-* [Cisco: Customize macOS Installation of Cisco](https://docs.umbrella.com/deployment-umbrella/docs/customize-macos-installation-of-cisco-secure-client) 
-Secure Client
+* [Cisco: Customize macOS Installation of Cisco Secure Client](https://docs.umbrella.com/deployment-umbrella/docs/customize-macos-installation-of-cisco-secure-client)
   - Section 1.
   - Section 2.
   - Take care to note, you *do* need to have an entry for each functional module.
