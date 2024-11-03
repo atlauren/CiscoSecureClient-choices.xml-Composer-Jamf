@@ -8,14 +8,16 @@ This repo is for installing Cisco Secure Client, with a choices.xml, assembled w
 5. In Composer, **Build As Package**.
 
 ## Resources
-* [https://gist.github.com/rtrouton/002034a14e9d8f4f5b32cd4b0998bc01](Rich Trouton: Working with Apple pkgs).
-* [https://learn.jamf.com/en-US/bundle/composer-user-guide-current/page/Adding_a_Postflight_Script_to_a_Package_Source.html](JAMF: Adding a Postflight Script to a Package Source)
-* [https://ideas.jamf.com/ideas/JN-I-17689](JAMF Idea: Specify ChoiceChangesXML for pkg install within policy)
-* [https://docs.umbrella.com/deployment-umbrella/docs/customize-macos-installation-of-cisco-secure-client](Cisco: Customize macOS Installation of Cisco Secure Client)
+* [Rich Trouton: Working with Apple pkgs](https://gist.github.com/rtrouton/002034a14e9d8f4f5b32cd4b0998bc01).
+* [JAMF: Adding a Postflight Script to a Package Source](https://learn.jamf.com/en-US/bundle/composer-user-guide-current/page/Adding_a_Postflight_Script_to_a_Package_Source.html)
+* [JAMF Idea: Specify ChoiceChangesXML for pkg install within policy](https://ideas.jamf.com/ideas/JN-I-17689)
+* [Cisco: Customize macOS Installation of Cisco](https://docs.umbrella.com/deployment-umbrella/docs/customize-macos-installation-of-cisco-secure-client) 
+Secure Client)
 1. Section 1.
 2. Section 2.
 3. Take care to note, you *do* need to have an entry for each functional module.
-```<dict>
+```
+<dict>
 	<key>attributeSetting</key>
 	<integer>1</integer>
 	<key>choiceAttribute</key>
