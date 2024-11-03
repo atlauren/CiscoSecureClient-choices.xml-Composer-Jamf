@@ -16,7 +16,7 @@ Secure Client
   - Section 1.
   - Section 2.
   - Take care to note, you *do* need to have an entry for each functional module.
-  - ```
+```
 <dict>
 	<key>attributeSetting</key>
 	<integer>1</integer>
