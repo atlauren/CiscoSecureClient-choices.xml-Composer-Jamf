@@ -13,10 +13,10 @@ This repo is for installing Cisco Secure Client, with a choices.xml, assembled w
 * [JAMF Idea: Specify ChoiceChangesXML for pkg install within policy](https://ideas.jamf.com/ideas/JN-I-17689)
 * [Cisco: Customize macOS Installation of Cisco](https://docs.umbrella.com/deployment-umbrella/docs/customize-macos-installation-of-cisco-secure-client) 
 Secure Client
-- Section 1.
-- Section 2.
-- Take care to note, you *do* need to have an entry for each functional module.
-- ```
+  - Section 1.
+  - Section 2.
+  - Take care to note, you *do* need to have an entry for each functional module.
+  - ```
 <dict>
 	<key>attributeSetting</key>
 	<integer>1</integer>
