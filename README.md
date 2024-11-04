@@ -34,5 +34,7 @@ This repo is for installing Cisco Secure Client, with a choices.xml, assembled w
 	<string>choice_fireamp</string>
 </dict>
 ```
+## Thanks
+Many thanks to the Macadmins Slack for ideas, assistance, and sympathy.
 
 
