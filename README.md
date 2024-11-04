@@ -15,6 +15,7 @@ This repo is for installing Cisco Secure Client, with a choices.xml, assembled w
   - Section 1.
   - Section 2.
   - Take care to note, you *do* need to have an entry for each functional module.
+    * [MacAdmins Slack](https://macadmins.slack.com/archives/C0QPT3X1T/p1728446524307819?thread_ts=1725042278.515829&cid=C0QPT3X1T)
 ```
 <dict>
 	<key>attributeSetting</key>
