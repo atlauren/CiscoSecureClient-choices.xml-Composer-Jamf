@@ -4,7 +4,7 @@ This repo is for installing Cisco Secure Client, with a choices.xml, assembled w
 1. Create a folder under `/private/tmp/`, using the name of your package (e.g. `org.foo.cisco-secure-client`)
 2. Copy the Cisco DMG (e.g. `cisco-secure-client-macos-5.1.6.103-predeploy-k9.dmg`) file, and your your `choices.xml`, into that directory.
 3. Drag your package folder (e.g. `org.foo.cisco-secure-client`) to Composer.
-4. Replace supplied `postinstall` file with the one in this repo.
+4. Copy this repo's `postinstall` file into Composer's Scripts directory.
 5. In Composer, **Build As Package**.
 
 ## Resources
